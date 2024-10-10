@@ -1,0 +1,5 @@
+server:
+  user: ppyyhh3285@gmail.com
+  port: 8082
+  servlet:
+    context-path: /service2
